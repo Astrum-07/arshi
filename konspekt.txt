@@ -1,0 +1,25 @@
+js funksiya 
+funksiya o'zi nima? 
+funksiya bu biron bir malumotni funksiyaga kirgizib boshqacha yani qayta ishlanga malumot olish.
+masalan funksiya yaratiladi uni vazifasi unga kiritilgan sonlar ichidan eng katta vaeng kichiklarni aniqlashi kerak boladi
+va bu uchun js da funksiya ishlashi algoratim yaratiladi 
+funksiya uchun xulosa qilsak u o'ziga berilgan ma'lumotni qayta ishlab taqdim etadi 
+jsda funksiyani yana vazifasi bu kod yozishni qisqartiradi va bitta funksiya yaratilsa shu funksiyani chaqirib xoxlagan qatorda 
+ishlatish mumkin 
+
+function salom() {
+  console.log("Salom, dunyo!");
+  }
+  yuqorida funksiya uchun misol bu yerda salom bu funksiyani nomi chaqirilganda shu nom bilan chaqiriladi 
+  natijaga esa unga kirgizilgan qiymat chiqadi yani "salom dunyo!" bu funksiyaga misol edi 
+
+funksiya orqali biz juda katta malsalalarni bo'laklarga  ajratib ishlashim mumkin
+return bu funksiyani bir qismi huddi breakga oxhagan break o'rniga return ham ishlatish mumkin
+
+Xulosa:
+1. function yoki => bilan yoziladi.
+2. Parametrlar qabul qilishi mumkin.
+3. return orqali natija qaytaradi.
+4. Uni chaqirmasak, ishlamaydi.
+
+
